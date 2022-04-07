@@ -1,0 +1,7 @@
+{
+  "name": "superapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
